@@ -7,7 +7,7 @@ Passo 0 - iníciar o github
 Passo 0 - fazer o termo de abertura
 Passo 0 - fazer o primeiro commit documentação
 
---------- estrutura e execução do projeto ---------
+--------- estrutura do projeto ---------
 Passo 0 - criar estrutura de pasta
 Passo 0 - fazer o commit criar estrutura de pasta
 Passo 0 - definir a sequência lógica de execução do projeto

@@ -1,0 +1,30 @@
+
+
+.navegacao{
+  background-color: rgb(154, 171, 194);
+  color: black;
+}
+
+
+.rodape{
+  background-color: rgb(60, 74, 83);
+  color: white;
+}
+
+.navegar-item{
+  text-decoration: none;
+  color: white;
+  padding: 0px 10px;
+}
+
+.navegar-item:hover{
+  text-decoration: underline;
+  color: white;
+}
+
+.texto{
+  text-align: justify !important;
+  color: rgb(16, 138, 4) !important;
+}
+
+
